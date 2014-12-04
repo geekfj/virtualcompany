@@ -1,0 +1,39 @@
+*{margin:0;padding: 0;}
+body{background: #444}
+
+
+.loginBox{width:500px;
+	      height:300px;
+	      padding:0 20px;
+	      border:1px solid #fff; 
+	      color:#000; 
+	      margin-top:40px;
+	      border-radius:8px;
+	      background: white;
+	      box-shadow:0 0 15px #222;
+	      background: -moz-linear-gradient(top, #fff, #efefef 8%);
+	      background: -webkit-gradient(linear, 0 0, 0 100%, from(#f6f6f6), to(#f4f4f4));
+	      font:15px/2em 'Microsoft YaHei' ;
+	      position: absolute;
+	      left:50%;top:50%;
+	      margin-left:-210px;margin-top:-115px;
+	  }
+h2{height:45px;font-size:20px;font-weight:normal;}
+.loginBox .left{border-right:1px solid #ccc;height:100%;padding-right: 20px; }
+
+.registerBox{width:500px;
+		      height:500px;
+		      padding: 20px 80px;
+		      border:1px solid #fff; 
+		      color:#000; 
+		      margin-top:40px;
+		      border-radius:8px;
+		      background: white;
+		      box-shadow:0 0 15px #222;
+		      background: -moz-linear-gradient(top, #fff, #efefef 8%);
+		      background: -webkit-gradient(linear, 0 0, 0 100%, from(#f6f6f6), to(#f4f4f4));
+		      font:15px/2em 'Microsoft YaHei' ;
+		      position: absolute;
+		      left:50%;top:30%;
+		      margin-left:-210px;margin-top:-115px;
+	  }
